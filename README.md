@@ -1,3 +1,6 @@
+## 📄 Full Report  
+[Click here to view the full security assessment](https://github.com/Viney-Washington/ficbank-security assessment/blob/87578754615dcadc8345e65388f3ce12de7540bc/605%20Introduction/Viney%20Washington%20_%20FICBANK%20Security%20Assessment%20Report%20-Unit%202%20Assignment%20-%20project%201.pdf)
+
 # FICBANK Security Assessment (Nmap & Nessus)
 
 ## Objective
